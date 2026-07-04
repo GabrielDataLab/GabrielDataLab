@@ -1,5 +1,20 @@
 # 💫 About Me:
-🎯 Engenheiro de Dados Jr com background de 5 anos no<br>Exército Brasileiro trazendo disciplina, ownership e entrega<br>consistente para a área de dados.<br><br>🤝 Interessado em colaborar em:<br>Pipelines de dados ponta a ponta (E2E), automação de processos ETL/ELT<br>e construção de Data Warehouses escaláveis com foco em confiabilidade<br>e qualidade de dados.<br><br>📚 Atualmente estudando:<br>Aprofundando em transformações com dbt, orquestração com Apache Airflow<br>e construção de pipelines em cloud com AWS e Snowflake.<br><br>💬 Pergunte-me sobre:<br>Ciclo de vida da Engenharia de Dados, modelagem relacional, ETL/ELT,<br>e construção de pipelines com Python, Airflow e Docker.
+
+🎯 **Engenheiro de Dados Jr.** com background de 5 anos no Exército Brasileiro. Do primeiro dashboard guiado ao pipeline com CI/CD em 13 meses — trago a disciplina, o *ownership* militar e o foco em evolução constante para a área de dados.
+
+📈 **Minha Trajetória:**
+* **Jun/2025** — *Modelagem e DAX:* Dashboard de vendas em Power BI (Desafio DNC).
+* **Jan/2026** — *Primeira pipeline real:* Limpeza e tratamento de dados com Python/Pandas (Airbnb Rio).
+* **Mai–Jul/2026** — *Pipelines de produção:* Ingestão via API, orquestração com Airflow, arquitetura *medallion* com dbt/Snowflake e CI/CD.
+
+🤝 **Interessado em colaborar em:**
+Pipelines de dados ponta a ponta (E2E), automação de processos ETL/ELT e construção de Data Warehouses escaláveis com foco em confiabilidade e qualidade de dados.
+
+📚 **Atualmente estudando:**
+Aprofundando em transformações com dbt, orquestração com Apache Airflow e construção de pipelines em cloud com AWS e Snowflake.
+
+💬 **Pergunte-me sobre:**
+Ciclo de vida da Engenharia de Dados, modelagem relacional, ETL/ELT, e construção de pipelines com Python, Airflow e Docker.
 
 
 ## 🌐 Socials:
