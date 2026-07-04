@@ -16,7 +16,9 @@
 ![](https://streak-stats.demolab.com/?user=GABRIELDATALAB&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GABRIELDATALAB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=GABRIELDATALAB&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7&v=1" alt="GABRIELDATALAB Trophies" />
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
