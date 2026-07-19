@@ -10,9 +10,6 @@
 🤝 **Interessado em colaborar em:**
 Pipelines de dados ponta a ponta (E2E), automação de processos ETL/ELT e construção de Data Warehouses escaláveis com foco em confiabilidade e qualidade de dados.
 
-📚 **Atualmente estudando:**
-Aprofundando em transformações com dbt, orquestração com Apache Airflow e construção de pipelines em cloud com AWS e Snowflake.
-
 💬 **Pergunte-me sobre:**
 Ciclo de vida da Engenharia de Dados, modelagem relacional, ETL/ELT, e construção de pipelines com Python, Airflow e Docker.
 
