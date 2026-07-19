@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎯 **Engenheiro de Dados Jr.** com background de 5 anos no Exército Brasileiro. Do primeiro dashboard guiado ao pipeline com CI/CD em 13 meses — trago a disciplina, o *ownership* militar e o foco em evolução constante para a área de dados.
+🎯 **Engenheiro de Dados** com background de 5 anos no Exército Brasileiro. Do primeiro dashboard guiado ao pipeline com CI/CD em 13 meses — trago a disciplina, o *ownership* militar e o foco em evolução constante para a área de dados.
 
 📈 **Minha Trajetória:**
 * **Jun/2025** — *Modelagem e DAX:* Dashboard de vendas em Power BI (Desafio DNC).
